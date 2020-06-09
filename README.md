@@ -10,7 +10,7 @@ libs: pytegrambotapi, pyowm
 
 # Screenshots
 
-[Image alt](https://github.com/hffmn/weather-bot-for-telegram/raw/master/1121.png)
+[Image alt](https://github.com/hffmn/weather-bot-for-telegram/raw/master/11121.png)
 
 
 
