@@ -12,9 +12,9 @@ libs: pytegrambotapi, pyowm
 
 [Image alt](https://github.com/hffmn/weather-bot-for-telegram/raw/master/11121.png)
 
-# Use
+# Test
 
-U can find it by name: echochatbotfortg
+U can find it by name: echochatbotfortg (not working)
 
 
 
